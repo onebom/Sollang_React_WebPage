@@ -1,0 +1,42 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-google-maps/api": "2.12.0",
+    "classnames": "2.3.1",
+    "firebase": "9.8.2",
+    "prop-types": "15.8.1",
+    "react": "18.1.0",
+    "react-dom": "18.0.0",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "proxy": [
+    "http://apiserver.com:5000",
+    "https://firebasestorage.googleapis.com/v0/b/sollang-fcfbe.appspot.com/o/sollang_img%2FStore%2FHama%2FStore%2FStandard.png?alt=media&token=9d4b3596-3c33-4a36-a3dc-814e248271cc",
+    "https://firebasestorage.googleapis.com/v0/b/sollang-fcfbe.appspot.com/o/sollang_img%2FStore%2FHiddenSinger%2FStore%2FStandard.png?alt=media&token=717af142-34f4-46f5-995b-04ebbf230515",
+    "https://firebasestorage.googleapis.com/v0/b/sollang-fcfbe.appspot.com/o/sollang_img%2FStore%2FCoinStage%2FStore%2FStandard.png?alt=media&token=0b9bc1b4-e71a-40b2-914d-051d4f237081"
+  ]
+}

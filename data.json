@@ -1,0 +1,427 @@
+{
+  "MapIMG": "TestURL",
+  "Stores": {
+    "Store": [
+      {
+        "ID": "1",
+        "MaxRoomNum": "3",
+        "Rooms": {
+          "Room": [
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "1",
+              "RoomIMG": "https://firebasestorage.googleapis.com/v0/b/sollang-fcfbe.appspot.com/o/sollang_img%2FStore%2Fid_1%2FRoomIMG%2FRoom1_Test_IMG.png?alt=media&token=47747199-ba64-4180-b22a-b38ca7fc9687",
+              "RoomX": "0",
+              "RoomY": "0",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "2",
+              "RoomIMG": "https://firebasestorage.googleapis.com/v0/b/sollang-fcfbe.appspot.com/o/sollang_img%2FStore%2Fid_1%2FRoomIMG%2FRoom2_Test_IMG.png?alt=media&token=d802181b-70ac-4ca5-ab2e-861e9a624ecf",
+              "RoomX": "10",
+              "RoomY": "1",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "3",
+              "RoomIMG": "https://firebasestorage.googleapis.com/v0/b/sollang-fcfbe.appspot.com/o/sollang_img%2FStore%2Fid_1%2FRoomIMG%2FRoom3_Test_IMG.png?alt=media&token=45d241f8-d9dc-4ad6-b27d-0a13e608f1ac",
+              "RoomX": "12",
+              "RoomY": "3",
+              "UseorUnuse": "0"
+            }
+          ]
+        },
+        "StoreIMG": "https://firebasestorage.googleapis.com/v0/b/sollang-fcfbe.appspot.com/o/sollang_img%2FStore%2Fid_1%2FStoreIMG%2FTest_Store_IMG.png?alt=media&token=eaad7988-0b29-4cb4-9b91-f29d210e0574",
+        "StoreX": "0",
+        "StoreY": "0",
+        "UsableRoom": "3",
+        "address": "인천 남동구 성말로 10 효명프라자",
+        "closetime": "02:00",
+        "latitude": "37.44535227174",
+        "longitude": "126.70167420584",
+        "name": "히든코인싱어 노래연습장",
+        "opentime": "10:00",
+        "price": "None",
+        "rate1": 5,
+        "rate2": 4,
+        "rate3": 3,
+        "telephone": "000-0000-0000"
+      },
+      {
+        "ID": "2",
+        "MaxRoomNum": "3",
+        "Rooms": {
+          "Room": [
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "1",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "2",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "3",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            }
+          ]
+        },
+        "StoreX": "0",
+        "StoreY": "0",
+        "UsableRoom": "3",
+        "address": "인천 남동구 인하로 497-24 4층",
+        "closetime": "24:00",
+        "latitude": "37.444420724783",
+        "longitude": "126.70212246052",
+        "name": "로꼬 동전노래방 24시",
+        "opentime": "00:00",
+        "price": "2곡당 500원",
+        "rate1": 5,
+        "rate2": 4,
+        "rate3": 3,
+        "telephone": "010-7578-5912"
+      },
+      {
+        "ID": "3",
+        "MaxRoomNum": "3",
+        "Rooms": {
+          "Room": [
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "1",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "2",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "3",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            }
+          ]
+        },
+        "StoreX": "0",
+        "StoreY": "0",
+        "UsableRoom": "3",
+        "address": "인천 남동구 인하로 497-23 6층",
+        "closetime": "22:00",
+        "latitude": "37.444454915902",
+        "longitude": "126.70171643422",
+        "name": "악쓰는하마코인노래방 구월로데오점",
+        "opentime": "11:00",
+        "price": "None",
+        "rate1": 5,
+        "rate2": 4,
+        "rate3": 3,
+        "telephone": "000-0000-0000"
+      },
+      {
+        "ID": "4",
+        "MaxRoomNum": "3",
+        "Rooms": {
+          "Room": [
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "1",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "2",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "3",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            }
+          ]
+        },
+        "StoreX": "0",
+        "StoreY": "0",
+        "UsableRoom": "3",
+        "address": "인천 남동구 선수촌공원로 37 중앙프라자 201호",
+        "closetime": "01:00",
+        "latitude": "37.442298028932",
+        "longitude": "126.70985444784",
+        "name": "코인쏭 코인노래연습장",
+        "opentime": "12:00",
+        "price": "큰방 7000원, 3곡당 1000원, 1시간제 5000원",
+        "rate1": 5,
+        "rate2": 4,
+        "rate3": 3,
+        "telephone": "000-0000-0000"
+      },
+      {
+        "ID": "5",
+        "MaxRoomNum": "3",
+        "Rooms": {
+          "Room": [
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "1",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "2",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "3",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            }
+          ]
+        },
+        "StoreX": "0",
+        "StoreY": "0",
+        "UsableRoom": "3",
+        "address": "인천 남동구 인하로 497-28 2층",
+        "closetime": "01:00",
+        "latitude": "37.444640410138",
+        "longitude": "126.70271811557",
+        "name": "코인스테이지",
+        "opentime": "13:00",
+        "price": "None",
+        "rate1": 5,
+        "rate2": 4,
+        "rate3": 3,
+        "telephone": "010-8878-6339"
+      },
+      {
+        "ID": "6",
+        "MaxRoomNum": "3",
+        "Rooms": {
+          "Room": [
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "1",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "2",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "3",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            }
+          ]
+        },
+        "StoreX": "0",
+        "StoreY": "0",
+        "UsableRoom": "3",
+        "address": "인천 남동구 인하로489번길 22 5층",
+        "closetime": "24:00",
+        "latitude": "37.44448887484",
+        "longitude": "126.70147501112",
+        "name": "24시코인노래연습장",
+        "opentime": "00:00",
+        "price": "None",
+        "rate1": 5,
+        "rate2": 4,
+        "rate3": 3,
+        "telephone": "000-0000-0000"
+      },
+      {
+        "ID": "7",
+        "MaxRoomNum": "3",
+        "Rooms": {
+          "Room": [
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "1",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "2",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "3",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            }
+          ]
+        },
+        "StoreX": "0",
+        "StoreY": "0",
+        "UsableRoom": "3",
+        "address": "인천 남동구 성말로 16 신현파크프라자",
+        "closetime": "24:00",
+        "latitude": "37.445332050611",
+        "longitude": "126.70232386739",
+        "name": "SK게임랜드노래방",
+        "opentime": "00:00",
+        "price": "None",
+        "rate1": 5,
+        "rate2": 4,
+        "rate3": 3,
+        "telephone": "000-0000-0000"
+      },
+      {
+        "ID": "8",
+        "MaxRoomNum": "3",
+        "Rooms": {
+          "Room": [
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "1",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "2",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            },
+            {
+              "ChairX": "3.12",
+              "ChairY": "3.13",
+              "MonitorX": "2.11",
+              "MonitorY": "2.12",
+              "RoomID": "3",
+              "RoomX": "1.11",
+              "RoomY": "1.12",
+              "UseorUnuse": "0"
+            }
+          ]
+        },
+        "StoreX": "0",
+        "StoreY": "0",
+        "UsableRoom": "3",
+        "address": "인천 남동구 인하로489번길 28 5층",
+        "closetime": "01:00",
+        "latitude": "37.444758525671",
+        "longitude": "126.70144952529",
+        "name": "세븐스타코인노래연습장 구월로데오점",
+        "opentime": "12:00",
+        "price": "None",
+        "rate1": 5,
+        "rate2": 4,
+        "rate3": 3,
+        "telephone": "000-0000-0000"
+      }
+    ]
+  }
+}

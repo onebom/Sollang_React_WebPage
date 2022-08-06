@@ -1,0 +1,39 @@
+.app {
+  height: 100vh;
+}
+.wrap {
+  height: 50vh;
+  width: 100vw;
+  position: fixed;
+  z-index: 9;
+  background-color: white;
+}
+.basicsInfoBtn {
+  width: 93vw;
+  background-color: white;
+  border: white;
+}
+
+.back {
+  right: 0;
+}
+
+.info {
+  height: 50vh;
+  transform: translateY(50vh);
+  z-index: 0;
+}
+
+.map {
+  position: relative;
+}
+
+.pins {
+  position: absolute;
+}
+
+.canvas {
+  position: fixed;
+  width: 100vh;
+  height: 50vh;
+}

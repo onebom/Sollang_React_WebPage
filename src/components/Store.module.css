@@ -1,0 +1,12 @@
+.screen {
+  height: 100vh;
+}
+
+.infos {
+  height: 50vh;
+}
+
+.control {
+  height: 50vh;
+  max-height: 50vh;
+}

@@ -1,0 +1,20 @@
+.buttonwrap {
+  /* position: fixed; */
+}
+
+#room1 {
+  left: 50vh;
+}
+
+.button {
+  font-size: 1vh;
+  backgroundcolor: "green";
+}
+
+.left {
+  font-size: 3vh;
+}
+
+.room1 {
+  left: 40vh;
+}
